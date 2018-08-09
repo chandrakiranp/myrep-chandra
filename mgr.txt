@@ -1,0 +1,7 @@
+Hello Team,
+
+This is a test page in chef.
+
+Thanks,
+Ikea
+
